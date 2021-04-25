@@ -3,6 +3,8 @@
 body{
 	margin:0px;
 	padding:0px;
+	box-sizing:border-box;
+	max-height:100vh
 }
 ul{
 	list-style:none;
