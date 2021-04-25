@@ -1,4 +1,4 @@
-# Marvel superheros slider
+# Marvel superheroes slider
 * > My favourite **MARVEL** superheros 
   * **Deadpool**
   * **Spider-Man**
