@@ -1,2 +1,2 @@
-# Marvel-superheros-slider
-My favourite MARVEL superheros 
+# Marvel superheros slider
+> My favourite **MARVEL** superheros 
